@@ -8,6 +8,7 @@ namespace ProftaakS2.Classes
     public class Leraar
     {
         private string voornaam;
+        kjkj
         private string achternaam;
     }
 }

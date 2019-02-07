@@ -5,13 +5,9 @@ using System.Web;
 
 namespace ProftaakS2.Classes
 {
-    public class Leeraar
+    public class Leraar
     {
-
-
-
-
-
-        tests
+        private string voornaam;
+        private string achternaam;
     }
 }

@@ -9,5 +9,6 @@ namespace ProftaakS2.Classes
     {
         private string voornaam;
         private string achternaam;
+        private string test;
     }
 }

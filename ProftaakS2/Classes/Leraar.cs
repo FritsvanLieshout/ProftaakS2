@@ -5,7 +5,7 @@ using System.Web;
 
 namespace ProftaakS2.Classes
 {
-    public class Leeraar
+    public class Leraar
     {
         private string voornaam;
         private string achternaam;
